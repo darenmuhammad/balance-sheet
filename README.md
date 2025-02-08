@@ -1,7 +1,7 @@
 # 📊 ***Balance Sheet***
-### 📝 Pembelajaran HTML & CSS Pseudo-class dari freeCodeCamp
+### 📝 Pembelajaran HTML & CSS
 
-Selamat datang di dokumentasi **Balance Sheet**!  
+Selamat datang di dokumentasi **Balance Sheet** dari mengkiuti kelas *Responsive Web Design* oleh freeCodeCamp!  
 Dalam kursus ini, saya mempelajari **HTML** dan **CSS Pseudo-class** untuk membuat tampilan yang menarik dan interaktif. 🚀
 
 ## 📌 Materi yang Dipelajari  
